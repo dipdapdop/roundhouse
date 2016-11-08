@@ -1,4 +1,5 @@
-using System.Data.OracleClient;
+//using System.Data.OracleClient;
+using Oracle.ManagedDataAccess.Client;
 using roundhouse.infrastructure.logging;
 
 namespace roundhouse.databases.oracle
